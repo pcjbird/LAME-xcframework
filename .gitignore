@@ -70,3 +70,5 @@ build/
 /Makefile.*
 !/Makefile.in
 /missing
+LAME.xcframework
+LAME.xcframework/*
